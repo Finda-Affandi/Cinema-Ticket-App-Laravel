@@ -1,0 +1,40 @@
+
+#card {
+    width: 400px;
+    height: 300px;
+    margin: 10rem auto 8.1rem auto;
+    
+}
+
+#sicard {
+    width: 400px;
+    height: 350px;
+    margin: 10rem auto 8.1rem auto;
+    
+}
+
+#login {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#user {
+    margin-top: 50px;
+    width: 300px;
+    padding-left: 90px;
+}
+
+#pass {
+    margin-top: 10px;
+    width: 300px;
+    padding-left: 90px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+#h5 {
+    text-align: center;
+}

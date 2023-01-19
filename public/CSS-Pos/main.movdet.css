@@ -1,0 +1,55 @@
+body {
+    text-align: left;
+}
+
+#pic {
+    margin-top: 50px;
+    width: 240px;
+    margin-left: 20px;
+   
+}
+
+
+#dir {
+    text-align: left;
+    margin-left: 5px;
+}
+
+#name {
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 5px;
+
+}
+
+#pro {
+    text-align: left;
+   
+    margin-left: 5px;
+
+}
+
+#gen {
+    text-align: left;
+    
+    margin-left: 5px;
+
+}
+
+#dur {
+    text-align: left;
+    
+    margin-left: 5px;
+
+}
+#syn {
+    text-align: justify;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+#buy {
+    text-align: left;
+    
+    margin-left: -580px;
+}

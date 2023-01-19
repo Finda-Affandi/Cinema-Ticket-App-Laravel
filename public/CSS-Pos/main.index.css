@@ -1,0 +1,135 @@
+#movCard {
+    float: left;
+    margin-left: 10px;
+}
+
+#image {
+    border-radius: 5px 5px 0px 0px;
+    width: 267px;
+    height: 370px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#pilih {
+    background-color: #232323;
+}
+
+
+.select-twenty .custom-select {
+    border: none;
+    position: relative;
+    left: -1px;
+    height: 32px;
+    border-radius: 0;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    color: #006563;
+    background-image: none;
+    padding: 0px 0px 0px 30px;
+}
+
+.uk-grid {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.uk-text-right {
+    text-align: right!important;
+}
+
+#join-us .join-us-title,
+        #join-us p {
+            margin: 0 0 10px;
+            font-style: normal;
+            font-stretch: normal;
+            letter-spacing: normal;
+            color: #fff;
+        }
+
+#join-us .join-us-title {
+    font-family: MaisonNeueExtendedWEB-Bold,sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.text-black {
+    color: #1d1d1d;
+}
+
+.text-black {
+    color: #1d1d1d!important;
+}
+
+#join-us a:hover {
+    color: #fff;
+}
+#join-us a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.uk-link:hover, a:hover {
+    color: #0f6ecd;
+    text-decoration: underline;
+}
+a:active, a:hover {
+    outline: 0;
+}
+.gtx-btn-regular {
+    padding: 12px 20px;
+    font-weight: 300;
+}
+.gtx-btn {
+    position: relative;
+    font-family: MaisonNeueBook,sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+.bg-fuchsia {
+    background-color: rgb(46, 46, 46);
+}
+
+.uk-grid>*>:last-child {
+    margin-bottom: 0;
+}
+
+.uk-flex-middle {
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+#join-us p {
+    font-family: MaisonNeueBold,sans-serif;
+    font-size: 18px;
+    font-weight: 380;
+    line-height: 1.33;
+    text-align: left;
+}
+
+#join-us .join-us-title, #join-us p {
+    margin: 0 0 10px;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+
